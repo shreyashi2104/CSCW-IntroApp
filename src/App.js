@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h3>Sai Shreyashi Penugonda</h3>
-        <img src={selfpic} className="App-logo" alt="logo" />
+        <img src={selfpic} className="App-logo" alt="selfpic" />
         <p>The field of Computer Supported Cooperative Work(CSCW) is something that is elemental to computing in current times and my goal is to learn more about it.</p>
       </header>
       <hr></hr>
