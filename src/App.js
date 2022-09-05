@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <h3>Sai Shreyashi Penugonda</h3>
         <img src={selfpic} className="App-logo" alt="selfpic" />
-        <p>The field of Computer Supported Cooperative Work(CSCW) is something that is elemental to computing in current times and my goal is to learn more about it.</p>
+        <p>The field of Computer Supported Cooperative Work(CSCW) is something that is elemental to computing in current times and 
+          my goal is to learn more about it. Collaborative and Cooperative work ensure the advancement of technology and humankind in general, being a Computer Science graduate student at the beginning of a career in this field, I believe this subject would help me build solutions and applications which would use the concepts taught in this course in further implementations.</p>
       </header>
       <hr></hr>
       <div className="LeftAl">
