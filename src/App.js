@@ -35,7 +35,7 @@ function App() {
             <li>Collaborating over knowledge, news and other aspects</li>
             <li>Work management and task assigmments</li>
           </ol>
-        <p>Some things that could get better with time are: lag in syncronization when parallelly multiple parties are working on for example a document or when playing games  </p>
+        <p>Some things that could get better with time are: lag in synchronization when parallelly multiple parties are working on for example a document or when playing games  </p>
         <ol>
             <li>Security concerns</li>
             <li>More intuitive and easier UI for some applications</li>
